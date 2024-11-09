@@ -7,6 +7,6 @@ datasets: This file contains the synthetic datasets and large-scale datasets use
 
 test-: The files starting with test are the optimization indicators used in the article. The three indicators ANCV, DCVI and LCCV are separate folders.
 
-HyperBallClustering_acceleration_v4: is the algorithm for obtaining the particle ball collection.
+HyperBallClustering_acceleration_v4: This file is the algorithm for obtaining the granular-ball collection.
 # run
 Files named beginning with test can be run directly. Be sure to modify the path of the dataset.
